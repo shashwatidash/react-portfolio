@@ -1,0 +1,26 @@
+[
+    {
+        "title": "JAVA",
+        "imageSrc": "skills/java.png"
+    },
+    {
+        "title": "SPRING",
+        "imageSrc": "skills/spring.png"
+    },
+    {
+        "title": "MYSQL",
+        "imageSrc": "skills/mysql.png"
+    },
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "NODE JS",
+        "imageSrc": "skills/node.png"
+    }
+]

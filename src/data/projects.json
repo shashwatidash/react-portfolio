@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Go Camping",
+        "imageSrc": "project/project.png",
+        "description": "A full-fledged Express app to view campgrounds around the world and review them. Users can create their own campgrounds after getting authenticated. Integrated MongoDB.",
+        "skills": [
+            "Express",
+            "Node"
+        ],
+        "source": "https://github.com/shashwatidash/goCamping"
+    },
+    {
+        "title": "Instagram Clone",
+        "imageSrc": "project/project.png",
+        "description": "Built an interactive social media Android application to maintain profile, post pictures and view activity of other users. Used Parse Server for back-end to facilitate authentication and database storage.",
+        "skills": [
+            "Java",
+            "Android"
+        ],
+        "source": "https://github.com/shashwatidash/InstaClone"
+    }
+]
