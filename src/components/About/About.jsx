@@ -14,14 +14,14 @@ export const About = () => {
                 <ul className={styles.aboutItems}>
                     <li className={styles.aboutItem}><img src={getImageUrl("about/cursorIcon.png")} alt="" />
                         <div className={styles.aboutItemText}>
-                            <h3>Backend Developer</h3>
-                            <p>Implemented comprehensive validation for form data incorporating complex business logic. </p>
+                            <h3>Frontend Developer</h3>
+                            <p>Worked on designing several responsive websites.</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}><img src={getImageUrl("about/serverIcon.png")} alt="" />
                         <div className={styles.aboutItemText}>
                             <h3>Backend Developer</h3>
-                            <p>Expirience in building REST APIs.</p>
+                            <p>Experience in building REST APIs.</p>
                         </div>
                     </li>
                 </ul>
