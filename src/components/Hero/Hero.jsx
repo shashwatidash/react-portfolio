@@ -6,9 +6,9 @@ export const Hero = () => {
     return (
         <section className={styles.container}>
             <div className={styles.content}>
-                <h1 className={styles.title}>
+                <h2 className={styles.title}>
                     Hi, I'm Shaswati.
-                </h1>
+                </h2>
                 <p className={styles.desc}>
                     A Software Engineer and problem solver. I've experience as a full-stack developer designing responsive websites and building back-end APIs.
                 </p>
