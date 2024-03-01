@@ -4,10 +4,11 @@
         "organisation": "Contemi Solutions",
         "startDate": "Aug, 2021",
         "endDate": "Present",
+        "place": "India",
         "experiences": [
             "Worked on product deveopment of a trading application.",
             "Updated old code base of VB .NET to modern development standards in JAVA, improving functionality.",
-            "Built REST api's for different modules."
+            "Built REST APIs for different modules."
         ],
         "imageSrc": "history/logo.png"
     }
