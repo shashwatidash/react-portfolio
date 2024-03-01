@@ -24,7 +24,7 @@
     font-weight: 900;
     margin-bottom: 33px;
     font-family: var(--font-roboto);
-    background: linear-gradient(90deg, rgba(255, 255, 255, 1)70%, rgba(255, 255, 255, 0) 120%);
+    background-image: linear-gradient(90deg, rgba(255, 255, 255, 1) 70%, rgba(255, 255, 255, 0) 120%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 }
@@ -49,7 +49,7 @@
 
 .heroImg {
     width: 40%;
-    z-index: absolute;
+    z-index: 1;
     animation-name: floating;
     animation-duration: 3s;
     animation-iteration-count: infinite;
