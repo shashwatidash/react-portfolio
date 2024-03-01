@@ -1,7 +1,7 @@
 [
     {
         "title": "Go Camping",
-        "imageSrc": "project/project.png",
+        "imageSrc": "project/project2.png",
         "description": "A full-fledged Express app to view campgrounds around the world and review them. Users can create their own campgrounds after getting authenticated. Integrated MongoDB.",
         "skills": [
             "Express",

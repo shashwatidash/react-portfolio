@@ -12,16 +12,22 @@ export const About = () => {
                 <img className={styles.aboutImage}
                     src={getImageUrl("about/aboutImage.png")} alt="me-sitting" />
                 <ul className={styles.aboutItems}>
-                    <li className={styles.aboutItem}><img src={getImageUrl("about/cursorIcon.png")} alt="" />
+                    <li className={styles.aboutItem}><img src={getImageUrl("about/serverIcon.png")} alt="" />
                         <div className={styles.aboutItemText}>
-                            <h3>Frontend Developer</h3>
-                            <p>Worked on designing several responsive websites.</p>
+                            <h3>Frontend</h3>
+                            <p>I like designing websites for fun. Currently learning React for development of this webiste.</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}><img src={getImageUrl("about/serverIcon.png")} alt="" />
                         <div className={styles.aboutItemText}>
-                            <h3>Backend Developer</h3>
-                            <p>Experience in building REST APIs.</p>
+                            <h3>Backend</h3>
+                            <p>I work with Java for building backend servers in Spring Boot.</p>
+                        </div>
+                    </li>
+                    <li className={styles.aboutItem}><img src={getImageUrl("about/serverIcon.png")} alt="" />
+                        <div className={styles.aboutItemText}>
+                            <h3>Database</h3>
+                            <p>I'm skilled in SQL and understand database management concepts well.</p>
                         </div>
                     </li>
                 </ul>

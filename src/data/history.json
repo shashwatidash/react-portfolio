@@ -5,9 +5,9 @@
         "startDate": "Aug, 2021",
         "endDate": "Present",
         "experiences": [
-            "Worked on product deveopment on trading application.",
+            "Worked on product deveopment of trading application.",
             "Updated old code base of VB .NET to modern development standards in JAVA, improving functionality.",
-            "Build REST api's for different modules."
+            "Built REST api's for different modules."
         ],
         "imageSrc": "history/logo.png"
     }

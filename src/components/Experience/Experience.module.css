@@ -2,7 +2,7 @@
 
 .container {
     color: var(--color-text);
-    margin-top: 100px;
+    margin-top: 129px;
     margin-left: 10%;
     margin-right: 10%;
 }
@@ -48,17 +48,17 @@
 }
 
 .skillImageContainer img {
-    width: 75px;
+    width: 70px;
 }
 
 .skill p {
     font-size: 25px;
-    font-family: var(--fonnt-roboto);
+    font-family: var(--font-roboto);
     font-weight: 500;
 }
 
 .history {
-    width: 45%;
+    width: 55%;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -72,7 +72,7 @@
     background: #19376d;
     background: linear-gradient(90deg, #19376d, rgba(25, 55, 109, 0) 100%);
     border-radius: 10px;
-    padding: 40px;
+    padding: 50px;
 }
 
 .historyItem img {
@@ -94,11 +94,11 @@
 }
 
 .historyItemDetails ul {
-    margin-top: 6px;
+    margin-top: 20px;
     list-style-position: inside;
     font-size: 25px;
     list-style-type: disc;
-    margin-left: 70px;
+    margin-left: 20px;
 }
 
 @media screen and (max-width: 830px) {
