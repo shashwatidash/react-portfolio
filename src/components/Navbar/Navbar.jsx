@@ -19,7 +19,7 @@ export const Navbar = () => {
                     <li><a href='#experience'>Experience</a></li>
                     <li><a href='#projects'>Projects</a></li>
                     <li><a href='#contact'>Contact</a></li>
-                    <li><a href="https://drive.google.com/file/d/1P9G_W8kd2fFPq6YPQ9vPSiCZ0N1udGm5/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a></li>
+                    <li><a href="https://drive.google.com/file/d/1i6nausCrA6bIRCVkvQvQ2WkRTUTaAT04/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Resume</a></li>
                 </ul>
             </div>
         </nav>
